@@ -12,6 +12,8 @@ If anyone is up for creating a proper setup.py or requirements feel free to do t
 	    * pip install pyota
     * install current PyOTA-CCurl 1.0.9 (https://github.com/todofixthis/pyota-ccurl/releases/tag/1.0.9) to make it even faster! (optional but strongly recommended)
         * pip install pyota[ccurl]
+    * install using requirements.txt file
+		* pip install -r requirements.txt
 
 ## How to use
 * download the script with curl:
